@@ -1,32 +1,30 @@
 === TODAY'S NEWS SUMMARY ===
 
 Article 1
-Title: India's fiercest female politician faces a fight for survival
-Summary: India's prominent female politician, Mamata Banerjee, has lost the West Bengal state election, putting her party and political future in significant doubt. This comes after she famously ended 34 years of Communist rule in the state in 2011. She now faces a fight for political survival.
+Title: West Bengal verdict: With Mamata’s nemesis Suvendu Adhikari, Amit Shah plotted her downfall
+Summary: Amit Shah allegedly plotted Mamata Banerjee's downfall, leveraging her political rival Suvendu Adhikari. This strategy included Adhikari defeating her in Nandigram in 2021, with plans to also field him against her in Bhabanipur.
 ----------------------------------------
 
 Article 2
-Title: Parsi woman in Supreme Court over religion loss order
-Summary: A Parsi woman has approached the Supreme Court to challenge a decision by the Valsad Parsi Panchayat.
-The Panchayat's rule bars Parsi women who marry outside their faith from attending religious functions, implying they lose their Parsi identity.
+Title: AI-driven rally puts Taiwan, Korea within striking distance of India's m-cap
+Summary: Thanks to an AI-driven rally, Taiwan and South Korea's stock markets are rapidly catching up to India's total market value. This surge threatens India's position as the world's fifth-largest stock market.
 ----------------------------------------
 
 Article 3
-Title: Original Sabarimala PIL should’ve been binned: Supreme Court
-Summary: A Supreme Court bench, led by CJI Surya Kant, recently stated that the original Sabarimala Public Interest Litigation (PIL) from 2006 should have been dismissed. They said the SC in 2006 should have "thrown in the dustbin" that initial petition.
+Title: India's fiercest female politician faces a fight for survival
+Summary: Mamata Banerjee, India's fierce female politician, is fighting for her survival after losing West Bengal state, putting her party and political future in doubt.
+This comes despite her historic 2011 victory, where she defeated the Communist Party of India (Marxist) after 34 uninterrupted years in power.
+Her win in 2011 had overturned a political order that had long defined West Bengal.
 ----------------------------------------
 
 Article 4
-Title: 'How can this be serious cricket team?' DC 'geniuses' under fire amid loss to CSK; selection calls questioned
-Summary: Delhi Capitals are facing heavy criticism for their team selection and poor performance after a significant loss to Chennai Super Kings. Former India cricketer Dodda Ganesh specifically questioned their choices, calling them "geniuses," especially after the team struggled early following captain Axar Patel's decision to bat first.
+Title: Parsi woman in Supreme Court over religion loss order
+Summary: Could not summarise
 ----------------------------------------
 
 Article 5
-Title: Emerging ozone generation strategies: mechanistic insights and application-driven developments
-Summary: An open-access review article in RSC Advances details emerging strategies for generating ozone.
-
-It explores the scientific mechanisms behind these new methods and their potential applications.
-
-The paper was authored by researchers, primarily from Imam Mohammad Ibn Saud Islamic University in Saudi Arabia.
+Title: Original Sabarimala PIL should’ve been binned: Supreme Court
+Summary: A Supreme Court bench, led by CJI Surya Kant, has stated that the original Sabarimala Public Interest Litigation (PIL) from 2006 should have been dismissed immediately.
+This implies the court believes the case should never have been entertained in the first place.
 ----------------------------------------
 
