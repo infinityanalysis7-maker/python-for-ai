@@ -1,30 +1,29 @@
 === TODAY'S NEWS SUMMARY ===
 
 Article 1
-Title: West Bengal verdict: With Mamata’s nemesis Suvendu Adhikari, Amit Shah plotted her downfall
-Summary: Amit Shah allegedly plotted Mamata Banerjee's downfall, leveraging her political rival Suvendu Adhikari. This strategy included Adhikari defeating her in Nandigram in 2021, with plans to also field him against her in Bhabanipur.
+Title: Argus wins UK King's Award for Enterprise
+Summary: Argus, a global energy and commodity publisher, has won the UK King's Award for Enterprise.
+
+They received this prestigious recognition for their international growth, marking the fourth time the company has secured the award.
 ----------------------------------------
 
 Article 2
-Title: AI-driven rally puts Taiwan, Korea within striking distance of India's m-cap
-Summary: Thanks to an AI-driven rally, Taiwan and South Korea's stock markets are rapidly catching up to India's total market value. This surge threatens India's position as the world's fifth-largest stock market.
+Title: IIT-Madras launches centre in California, to be launchpad for Indian deep-tech start-ups
+Summary: Gemini is busy right now — try again in a moment
 ----------------------------------------
 
 Article 3
-Title: India's fiercest female politician faces a fight for survival
-Summary: Mamata Banerjee, India's fierce female politician, is fighting for her survival after losing West Bengal state, putting her party and political future in doubt.
-This comes despite her historic 2011 victory, where she defeated the Communist Party of India (Marxist) after 34 uninterrupted years in power.
-Her win in 2011 had overturned a political order that had long defined West Bengal.
+Title: India’s I&B sector FDI gains in 9M FY26 despite lower Q3 inflows
+Summary: Gemini is busy right now — try again in a moment
 ----------------------------------------
 
 Article 4
-Title: Parsi woman in Supreme Court over religion loss order
-Summary: Could not summarise
+Title: Fatal 2022 China Plane Crash Points to Midflight Fuel Cutoff
+Summary: Gemini is busy right now — try again in a moment
 ----------------------------------------
 
 Article 5
-Title: Original Sabarimala PIL should’ve been binned: Supreme Court
-Summary: A Supreme Court bench, led by CJI Surya Kant, has stated that the original Sabarimala Public Interest Litigation (PIL) from 2006 should have been dismissed immediately.
-This implies the court believes the case should never have been entertained in the first place.
+Title: Pay 2X charges if you miss this payment window on barrier-less tolls
+Summary: Gemini is busy right now — try again in a moment
 ----------------------------------------
 
